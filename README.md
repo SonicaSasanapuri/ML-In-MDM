@@ -87,6 +87,7 @@ LinkedIn: https:www.linkedin.com/in/sonica-sasanapuri-sasana19
 📬 Contact
 
 Email: sonicasasanapuri19@gmail.com  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/SonicaSasanapuri
+
 
 ----------------------------------------
