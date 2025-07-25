@@ -29,7 +29,7 @@ Deduplication:
 - Weighted field-wise similarity scoring (Name, Email, Org, Country, etc.)
 - Manual threshold tuning to detect duplicates
 - Anomaly Detection using Isolation Forest
-- Clustering using KMeans and DBSCAN
+- Clustering using KMeans
 
 Classification:
 - Preprocessing with pandas (cleaning NaNs and unknown values)
@@ -53,21 +53,7 @@ The model generalizes well without significant overfitting.
 - pandas, numpy
 - scikit-learn (including RandomForestClassifier)
 - fuzzywuzzy
-- matplotlib)
-
-----------------------------------------
-📌 How to Run
-
-1. Clone the repository:
-   git clone https://github.com/your-username/mdm-deduplication-classification.git
-   cd mdm-deduplication-classification
-
-2. Install the required libraries:
-   pip install -r requirements.txt
-
-3. Run the notebooks:
-   jupyter notebook deduplication.ipynb
-   jupyter notebook classification.ipynb
+- matplotlib
 
 ----------------------------------------
 ✅ Output Files
